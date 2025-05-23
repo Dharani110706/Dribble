@@ -1,5 +1,5 @@
 # Project Responsive Web Design using Bootstrap
-## Date:
+## Date: 19/05/2025
 
 ## AIM:
 To create a simplified clone of Dribbble (https://dribbble.com/) landing page.
@@ -176,11 +176,11 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-05-19 060605.png>)
+![alt text](image.png)
 
-![alt text](<Screenshot 2025-05-19 060616.png>)
+![alt text](image-1.png)
 
-![alt text](<Screenshot 2025-05-19 060628.png>)
+![alt text](image-2.png)
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
